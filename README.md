@@ -13,4 +13,4 @@ Feel free to contribute!
 -[Open Source](#open-source)
 
 # Getting Started
-	*[Asp.NET Official Site](http://www.asp.net) - Asp.NET Official Site
+	* [Asp.NET Official Site](http://www.asp.net) - Asp.NET Official Site
