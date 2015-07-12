@@ -18,6 +18,16 @@ Feel free to contribute!
 * [Learn About ASP.NET Web API](http://www.asp.net/web-api) - Web API resources
 * [Learn About ASP.NET SignalR](http://www.asp.net/signalr) - ASP.NET SignalR
 
+# Best Blogs
+* [Hanselman.com](http://www.hanselman.com/blog/)
+* [Scottgu](http://weblogs.asp.net/scottgu/default.aspx)
+* [Ode to Code](http://odetocode.com)
+* [ASP.NET Community Blogs](http://weblogs.asp.net)
+* [David Ebbo](http://blog.davidebbo.com)
+* [David Fowler](http://davidfowl.com)
+* [John Papa](http://www.johnpapa.net)
+* [Rick Strahl](http://weblog.west-wind.com)
+
 # Books
 * [Professional ASP.NET 4.5 in C# and VB](http://www.wrox.com/WileyCDA/WroxTitle/Professional-ASP-NET-4-5-in-C-and-VB.productCd-1118311825.html) - by Jason N. Gaylord, Christian Wenz, Pranav Rastogi, Todd Miranda, Scott Hanselman
 * [Beginning ASP.NET 4.5: in C# and VB](http://www.amazon.com/gp/product/1118311809?ie=UTF8&tag=aspnettelligent-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=1118311809) - by Imar Spaanjaars
