@@ -2,7 +2,7 @@
 
 A list of ASP.NET resources that includes frameworks, libraries, tools, tutorials, extensions for Visual Studio and much more.
 
-Feel free to contribute!
+Feel free to [contribute](https://github.com/kasuken/aspnetbestresources/contribution.md)!
 
 ### Contents
 - [Getting Started](#getting-started)
