@@ -13,8 +13,10 @@ Feel free to contribute!
 - [Open Source](#open-source)
 
 # Getting Started
-* [Asp.NET Official Site](http://www.asp.net) - Asp.NET Official Site
-* [Learn About ASP.NET MVC](http://www.asp.net/mvc) 
+* [ASP.NET Official Site](http://www.asp.net) - ASP.NET Official Site
+* [Learn About ASP.NET MVC](http://www.asp.net/mvc) - ASP.NET MVC resources
+* [Learn About ASP.NET Web API](http://www.asp.net/web-api) - Web API resources
+* [Learn About ASP.NET SignalR](http://www.asp.net/signalr) - ASP.NET SignalR
 
 # Books
 * [Professional ASP.NET 4.5 in C# and VB](http://www.wrox.com/WileyCDA/WroxTitle/Professional-ASP-NET-4-5-in-C-and-VB.productCd-1118311825.html) - by Jason N. Gaylord, Christian Wenz, Pranav Rastogi, Todd Miranda, Scott Hanselman
