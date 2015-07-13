@@ -36,7 +36,6 @@ Feel free to [contribute](https://github.com/kasuken/aspnetbestresources/blob/ma
 * [Open from Azure Websites](https://visualstudiogallery.msdn.microsoft.com/60d414b1-4ead-4fde-9359-588aa126cd6c)
 * [SideWaffle](http://sidewaffle.com/) - This is an awesome template pack containing both Project Templates, Item Templates and Snippets for a wide variety of scenarios.
 * [Image Optimizer](https://visualstudiogallery.msdn.microsoft.com/a56eddd3-d79b-48ac-8c8f-2db06ade77c3) - Lossless optimization of JPEG, PNG and Gifs
-* []()
 
 # Books
 * [Professional ASP.NET 4.5 in C# and VB](http://www.wrox.com/WileyCDA/WroxTitle/Professional-ASP-NET-4-5-in-C-and-VB.productCd-1118311825.html) - by Jason N. Gaylord, Christian Wenz, Pranav Rastogi, Todd Miranda, Scott Hanselman
