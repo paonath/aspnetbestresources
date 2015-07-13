@@ -29,6 +29,9 @@ Feel free to [contribute](https://github.com/kasuken/aspnetbestresources/blob/ma
 * [Rick Strahl](http://weblog.west-wind.com)
 * [Ode to Code](http://odetocode.com)
 * [ASP.NET Community Blogs](http://weblogs.asp.net)
+* [.NET Web Development and Tools Blog](http://blogs.msdn.com/b/webdev/)
+* [Sayed Hashimi](http://sedodream.com)
+* [Vittorio Bertocci](http://www.cloudidentity.com/blog/)
 
 ## Visual Studio Extensions
 * [Glimpse](http://getglimpse.com) - Providing real time diagnostics & insights
