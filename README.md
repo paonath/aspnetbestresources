@@ -18,6 +18,8 @@ Feel free to [contribute](https://github.com/kasuken/aspnetbestresources/blob/ma
 * [Learn About ASP.NET MVC](http://www.asp.net/mvc) - ASP.NET MVC resources
 * [Learn About ASP.NET Web API](http://www.asp.net/web-api) - Web API resources
 * [Learn About ASP.NET SignalR](http://www.asp.net/signalr) - ASP.NET SignalR
+* [What's New](http://www.asp.net/whats-new) - What's New in ASP.NET
+* [MSDN magazine](https://msdn.microsoft.com/en-us/magazine/) - MSDN magazine
 
 ## Best Blogs
 * [Scott Hanselman](http://www.hanselman.com/blog/)
