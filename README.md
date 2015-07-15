@@ -50,7 +50,7 @@ Feel free to [contribute](https://github.com/kasuken/aspnetbestresources/blob/ma
 
 ## Podcast
 * [.NET Rocks!](http://www.dotnetrocks.com/tag.aspx?tag=ASP.NET) - podcasts from .NET Rocks!
-* [The Sound of .NET)[http://thesoundof.net]
+* [The Sound of .NET][http://thesoundof.net]
 * [ASP.NET MVC 6](http://www.dotnetpodcast.com/show/card/35) - (italian)
 * [WebForms vs MVC](http://www.dotnetpodcast.com/show/card/25) - (italian)
 * [Aspettando ASP.NET vNext](http://www.dotnetpodcast.com/show/card/19) - (italian)
