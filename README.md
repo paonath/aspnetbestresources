@@ -36,6 +36,12 @@ Feel free to [contribute](https://github.com/kasuken/aspnetbestresources/blob/ma
 * [Sayed Hashimi](http://sedodream.com)
 * [Vittorio Bertocci](http://www.cloudidentity.com/blog/)
 
+## Tutorials
+* [Learn MVC in 7 days](http://www.codeproject.com/Articles/207797/Learn-MVC-Model-View-Controller-step-by-step-in)
+* [Type Cast Exception](http://typecastexception.com/category/ASPNet.aspx) - ASP.NET Category
+* [Type Cast Exception](http://typecastexception.com/category/ASPNET-MVC.aspx) - ASP.NET MVC Category
+* [Implement Active Directory Authentication in ASP.NET MVC 5](http://www.schiffhauer.com/mvc-5-and-active-directory-authentication/)
+
 ## Visual Studio Extensions
 * [Glimpse](http://getglimpse.com) - Providing real time diagnostics & insights
 * [Web Essentials](http://vswebessentials.com) - This is for all Web developers using Visual Studio
