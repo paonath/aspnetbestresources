@@ -11,6 +11,7 @@ Feel free to [contribute](https://github.com/kasuken/aspnetbestresources/blob/ma
 - [Visual Studio Extensions](#visual-studio-extensions)
 - [Twitter](#twitter)
 - [Books](#books)
+- [Podcast](#podcast)
 - [Open Source](#open-source)
 
 ## Getting Started
@@ -46,6 +47,13 @@ Feel free to [contribute](https://github.com/kasuken/aspnetbestresources/blob/ma
 * [Professional ASP.NET 4.5 in C# and VB](http://www.wrox.com/WileyCDA/WroxTitle/Professional-ASP-NET-4-5-in-C-and-VB.productCd-1118311825.html) - by Jason N. Gaylord, Christian Wenz, Pranav Rastogi, Todd Miranda, Scott Hanselman
 * [Beginning ASP.NET 4.5: in C# and VB](http://www.amazon.com/gp/product/1118311809?ie=UTF8&tag=aspnettelligent-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=1118311809) - by Imar Spaanjaars
 * [ASP.NET MVC 4 Succinctly](https://www.syncfusion.com/resources/techportal/ebooks/aspnetmvc4) - free ebook
+
+## Podcast
+* [.NET Rocks!](http://www.dotnetrocks.com/tag.aspx?tag=ASP.NET) - podcasts from .NET Rocks!
+* [The Sound of .NET)[http://thesoundof.net]
+* [ASP.NET MVC 6](http://www.dotnetpodcast.com/show/card/35) - (italian)
+* [WebForms vs MVC](http://www.dotnetpodcast.com/show/card/25) - (italian)
+* [Aspettando ASP.NET vNext](http://www.dotnetpodcast.com/show/card/19) - (italian)
 
 ## Contributors
 * [Emanuele Bartolesi](https://www.github.com/kasuken/)
