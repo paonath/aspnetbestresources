@@ -61,6 +61,9 @@ Feel free to [contribute](https://github.com/kasuken/aspnetbestresources/blob/ma
 * [WebForms vs MVC](http://www.dotnetpodcast.com/show/card/25) - (italian)
 * [Aspettando ASP.NET vNext](http://www.dotnetpodcast.com/show/card/19) - (italian)
 
+## Other useful resources
+* [EXTENSIONMETHOD.NET](http://extensionmethod.net/) - extension methods for C#, VB, F# and Javascript
+
 ## Contributors
 * [Emanuele Bartolesi](https://www.github.com/kasuken/)
 * [Riccardo Treso](https://github.com/riccardotreso/)
