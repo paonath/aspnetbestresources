@@ -21,6 +21,7 @@ Feel free to [contribute](https://github.com/kasuken/aspnetbestresources/blob/ma
 * [Learn About ASP.NET SignalR](http://www.asp.net/signalr) - ASP.NET SignalR
 * [What's New](http://www.asp.net/whats-new) - What's New in ASP.NET
 * [MSDN magazine](https://msdn.microsoft.com/en-us/magazine/) - MSDN magazine
+* [Microsoft Virtual Academy](http://www.microsoftvirtualacademy.com/) - MVA
 
 ## Best Blogs
 * [Scott Hanselman](http://www.hanselman.com/blog/)
@@ -41,6 +42,7 @@ Feel free to [contribute](https://github.com/kasuken/aspnetbestresources/blob/ma
 * [Type Cast Exception](http://typecastexception.com/category/ASPNet.aspx) - ASP.NET Category
 * [Type Cast Exception](http://typecastexception.com/category/ASPNET-MVC.aspx) - ASP.NET MVC Category
 * [Implement Active Directory Authentication in ASP.NET MVC 5](http://www.schiffhauer.com/mvc-5-and-active-directory-authentication/)
+* [ASP.NET 5 meet Docker](http://blogs.msdn.com/b/webdev/archive/2015/01/14/running-asp-net-5-applications-in-linux-containers-with-docker.aspx) - Running ASP.NET 5 applications in Linux Containers with Docker
 
 ## Visual Studio Extensions
 * [Glimpse](http://getglimpse.com) - Providing real time diagnostics & insights
@@ -48,6 +50,7 @@ Feel free to [contribute](https://github.com/kasuken/aspnetbestresources/blob/ma
 * [Open from Azure Websites](https://visualstudiogallery.msdn.microsoft.com/60d414b1-4ead-4fde-9359-588aa126cd6c)
 * [SideWaffle](http://sidewaffle.com/) - This is an awesome template pack containing both Project Templates, Item Templates and Snippets for a wide variety of scenarios.
 * [Image Optimizer](https://visualstudiogallery.msdn.microsoft.com/a56eddd3-d79b-48ac-8c8f-2db06ade77c3) - Lossless optimization of JPEG, PNG and Gifs
+* [JSLint](https://visualstudiogallery.msdn.microsoft.com/ede12aa8-0f80-4e6f-b15c-7a8b3499370e) - JSLint.NET for Visual Studio
 
 ## Books
 * [Professional ASP.NET 4.5 in C# and VB](http://www.wrox.com/WileyCDA/WroxTitle/Professional-ASP-NET-4-5-in-C-and-VB.productCd-1118311825.html) - by Jason N. Gaylord, Christian Wenz, Pranav Rastogi, Todd Miranda, Scott Hanselman
@@ -60,6 +63,7 @@ Feel free to [contribute](https://github.com/kasuken/aspnetbestresources/blob/ma
 * [ASP.NET MVC 6](http://www.dotnetpodcast.com/show/card/35) - (italian)
 * [WebForms vs MVC](http://www.dotnetpodcast.com/show/card/25) - (italian)
 * [Aspettando ASP.NET vNext](http://www.dotnetpodcast.com/show/card/19) - (italian)
+* [Docker for .NET](https://channel9.msdn.com/Series/Docker-for-NET-Developers/Docker-Overview-for-NET-Developers) - Docker Overview for .NET Developers
 
 ## Contributors
 * [Emanuele Bartolesi](https://www.github.com/kasuken/)
