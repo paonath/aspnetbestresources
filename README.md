@@ -65,6 +65,9 @@ Feel free to [contribute](https://github.com/kasuken/aspnetbestresources/blob/ma
 * [Aspettando ASP.NET vNext](http://www.dotnetpodcast.com/show/card/19) - (italian)
 * [Docker for .NET](https://channel9.msdn.com/Series/Docker-for-NET-Developers/Docker-Overview-for-NET-Developers) - Docker Overview for .NET Developers
 
+## Other useful resources
+* [EXTENSIONMETHOD.NET](http://extensionmethod.net/) - extension methods for C#, VB, F# and Javascript
+
 ## Contributors
 * [Emanuele Bartolesi](https://www.github.com/kasuken/)
 * [Riccardo Treso](https://github.com/riccardotreso/)
