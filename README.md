@@ -12,6 +12,7 @@ Feel free to [contribute](https://github.com/kasuken/aspnetbestresources/blob/ma
 - [Twitter](#twitter)
 - [Books](#books)
 - [Podcast](#podcast)
+- [Other usesul resources](#other-useful-resources)
 - [Open Source](#open-source)
 
 ## Getting Started
@@ -71,6 +72,7 @@ Feel free to [contribute](https://github.com/kasuken/aspnetbestresources/blob/ma
 ## Contributors
 * [Emanuele Bartolesi](https://www.github.com/kasuken/)
 * [Riccardo Treso](https://github.com/riccardotreso/)
+* [Paolo Innocenti](https://github.com/paonath)
 * [Other contributors](https://github.com/kasuken/aspnetbestresources/graphs/contributors)
 
 ## Contributing
