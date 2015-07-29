@@ -21,6 +21,7 @@ Feel free to [contribute](https://github.com/kasuken/aspnetbestresources/blob/ma
 * [Learn About ASP.NET SignalR](http://www.asp.net/signalr) - ASP.NET SignalR
 * [What's New](http://www.asp.net/whats-new) - What's New in ASP.NET
 * [MSDN magazine](https://msdn.microsoft.com/en-us/magazine/) - MSDN magazine
+* [GitHub ASP.NET 5](https://github.com/aspnet/Home) - GitHub ASP.NET 5 Repository
 
 ## Best Blogs
 * [Scott Hanselman](http://www.hanselman.com/blog/)
